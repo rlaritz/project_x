@@ -8,5 +8,5 @@
 
 ### Collaborators:
 
--
+- Rachael Laritz
 -
